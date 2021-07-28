@@ -3,4 +3,4 @@
 EP1000
 </head>
 <body>
-<h1>Digital Fabrication and Prototyping lol</h1> 
+<h1>Digital Fabrication and Prototyping</h1> 
