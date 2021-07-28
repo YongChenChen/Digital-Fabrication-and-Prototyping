@@ -1,6 +1,6 @@
 <html>
 <head>
-EP1000
+Hi There,  Welcome To My Website
 </head>
 <body>
 <h1>Digital Fabrication and Prototyping</h1> 
