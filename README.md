@@ -1,7 +1,6 @@
 <html>
 <head>
 EP1000 
-</head>
 <body>
 <h1>Hi There,  Welcome To My Website </h1> 
 <html>
