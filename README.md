@@ -2,7 +2,6 @@
 <head>
 EP1000 
 </head>
-<link rel="stylesheet" type="text/css" href="style.css"
 <body>
 <h1>Hi There,  Welcome To My Website </h1> 
 <html>
