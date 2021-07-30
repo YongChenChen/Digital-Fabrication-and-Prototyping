@@ -13,7 +13,6 @@ EP1000
 			</div>
 			<div id="content">
 				<div id="nav">
-					<div id="container" width="800">
 					<h3>Navigation</h3>
 					<ul>
 						<li><a class="selected" href="basefile.html">Home</a></li>
