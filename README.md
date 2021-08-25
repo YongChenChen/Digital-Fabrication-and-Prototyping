@@ -20,7 +20,6 @@ EP1000
 						<li><a href="safety.html">Fablab Safety</a></li>
 						<li><a href="tools.html">Tools</a></li>
 						<li><a href="cad.html">CAD</a></li>
-						<li><a href="3dprint.html">3D Printing</a></li>
 						<li><a href="laser.html">Laser Cutting</a></li>
 						<li><a href="project.html">Final Project</a></li>
 					</ul>
